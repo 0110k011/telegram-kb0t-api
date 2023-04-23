@@ -1,4 +1,0 @@
-com/kb0t/api/telegram/JsonResponse.class
-com/kb0t/api/telegram/response/SendMessageResponse.class
-com/kb0t/api/telegram/request/GetUpdatesRequest.class
-com/kb0t/api/telegram/TelegramConnectionService.class
